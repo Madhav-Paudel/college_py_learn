@@ -1,6 +1,6 @@
 # college project shopping cart 
 import random
-#  maskpass function is used hide pasword
+#  maskpass function is used hide password
 import maskpass  
 carts=[]
 Total=0
